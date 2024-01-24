@@ -1,0 +1,186 @@
+{
+    "custom_fields": {
+        "Extracto AB": {
+            "id": 1559055,
+            "value": ""
+        },
+        "Resumen": {
+            "id": 1559056,
+            "value": ""
+        },
+        "Slide Home Seguros": {
+            "id": 1559057,
+            "value": ""
+        },
+        "Vigencia": {
+            "id": 1559058,
+            "value": ""
+        },
+        "Dirección": {
+            "id": 1559059,
+            "value": ""
+        },
+        "Mapa": {
+            "id": 1559060,
+            "value": ""
+        },
+        "Sitio web": {
+            "id": 1559061,
+            "value": ""
+        },
+        "Teléfono": {
+            "id": 1559062,
+            "value": ""
+        },
+        "Condiciones comerciales": {
+            "id": 1559063,
+            "value": ""
+        },
+        "Url": {
+            "id": 1559064,
+            "value": ""
+        },
+        "icono": {
+            "id": 1559065,
+            "value": ""
+        },
+        "Keywords": {
+            "id": 1559066,
+            "value": ""
+        },
+        "URL Beneficio PAK": {
+            "id": 1559067,
+            "value": ""
+        },
+        "URL Beneficio Externa": {
+            "id": 1559068,
+            "value": ""
+        },
+        "v2_titulo": {
+            "id": 1559069,
+            "value": "CELIN"
+        },
+        "v2_extracto": {
+            "id": 1559070,
+            "value": "20% dcto. Todos los días en compra online"
+        },
+        "v2_descripcion": {
+            "id": 1559071,
+            "value": "<p>Creemos en una moda sin fronteras y para eso existimos. Para cruzar el mejor calzado de cuero y diseño argentino de este lado de la cordillera. Traemos la calidad y el diseño del calzado Argentino, de elaboración artesanal y 100% cuero.</p><ul><li>Obtén tu descuento ingresando el código BANCODECHILE como cupón de descuento al momento de finalizar la compra en Celin.cl</li><li>No acumulable con otras promociones.</li><li>Descuento no aplica al valor del despacho.</li></ul>"
+        },
+        "v2_vigencia": {
+            "id": 1559072,
+            "value": "Promoción válida hasta el 30 de junio de 2024."
+        },
+        "v2_direccion": {
+            "id": 1559073,
+            "value": ""
+        },
+        "v2_sitio-web": {
+            "id": 1559074,
+            "value": "
+www.celin.cl"
+        },
+        "v2_telefono": {
+            "id": 1559075,
+            "value": ""
+        },
+        "v2_condiciones-comerciales": {
+            "id": 1559076,
+            "value": "Promoción válida hasta el 30 de junio de 2024. Exclusivo para clientes que paguen con Tarjetas emitidas por Banco de Chile y Banco Edwards y que soliciten el descuento al momento de pagar en compra online . No acumulable con otras promociones. Descuento es de exclusiva responsabilidad del comercio no cabiéndole a Banco de Chile responsabilidad alguna en ello, ni la ulterior atención que ello demande."
+        },
+        "v2_keywords": {
+            "id": 1559077,
+            "value": "Ropa; vestuario; calzado; moda"
+        },
+        "v2_url-beneficio-pak": {
+            "id": 1559078,
+            "value": ""
+        },
+        "v2_url-beneficio-externa": {
+            "id": 1559079,
+            "value": ""
+        },
+        "v2_tarjetas-permitidas": {
+            "id": 1559080,
+            "value": "<ul><li>visa-cuenta-fan</li><li>visa-entel</li><li>visa-debito-bch</li><li>mastercard-credito-platinum</li><li>visa-credito-gold</li><li>mastercard-credito-dorada</li><li>mastercard-credito-black</li><li>visa-credito-signature</li><li>visa-credito-infinite</li><li>visa-fan-credito</li><li>visa-entel-credito-signature</li><li>visa-credito-platinum</li></ul>"
+        },
+        "v2_tipo-beneficio": {
+            "id": 1559081,
+            "value": "20%; de descuento"
+        },
+        "v2_orden": {
+            "id": 1559082,
+            "value": null
+        },
+        "v2_tag-campana": {
+            "id": 1559083,
+            "value": ""
+        },
+        "v2_tipo_agrupacion_campana": {
+            "id": 1559084,
+            "value": ""
+        },
+        "v2_orden_beneficios_del_mes": {
+            "id": 1559085,
+            "value": ""
+        },
+        "Título SEO": {
+            "id": 1559086,
+            "value": ""
+        },
+        "Descripción SEO": {
+            "id": 1559087,
+            "value": ""
+        },
+        "Imagen SEO": {
+            "id": 1559088,
+            "value": ""
+        },
+        "v2_llamado_accion": {
+            "id": 1559089,
+            "value": ""
+        },
+        "v2_codigo_campania": {
+            "id": 1559090,
+            "value": ""
+        },
+        "v2_respuesta_campania": {
+            "id": 1559091,
+            "value": ""
+        },
+        "v2_orden_por_secciones": {
+            "id": 1559092,
+            "value": ""
+        },
+        "Configuracion aux": {
+            "id": 1559093,
+            "value": ""
+        }
+    },
+    "id": 12559,
+    "uuid": "cc464583-2107-4fc8-a3e8-88e21ddb9b70",
+    "created_at": "2023-08-09T19:00:14.000-04:00",
+    "updated_at": "2023-08-09T19:00:14.000-04:00",
+    "published_at": "2024-01-11T16:52:27.000-03:00",
+    "url": "
+https://portales.bancochile.cl/personas/beneficios/beneficios-y-descuentos/detalles/celin"
+,
+    "title": "CELIN",
+    "slug": "celin",
+    "excerpt": "20% dcto. Todos los días en compra online",
+    "description": "",
+    "covers": [
+        "
+https://portales.bancochile.cl/uploads/000/055/376/ffa4e831-9612-4f6b-ba56-cbca95f178ec/original/banner-web-CELIN.jpg"
+,
+        "
+https://portales.bancochile.cl/uploads/000/055/377/1c525e9b-94e0-4033-bad8-56244c3facf9/original/logo-web-celin.jpg"
+    ],
+    "tags": [
+        "vestuario-y-calzado"
+    ],
+    "category": "beneficios/beneficios-y-descuentos",
+    "site_id": 1,
+    "video_url": ""
+}
